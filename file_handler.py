@@ -10,6 +10,6 @@ def export_data_to_file(export_to_file,filename):
     pass
 
 def main():
-    print(import_data_from_file("text_albums_data.txt"))
+    import_data_from_file("text_albums_data.txt")
 
 main()
